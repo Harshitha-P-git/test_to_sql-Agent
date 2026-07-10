@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+executed_sql-agent-llama.ipynb
+notebook_server.log
+__pycache__/
+*.pyc
